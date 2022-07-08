@@ -2,7 +2,7 @@
 {
 "spider":"https://raw.fastgit.org/hfr1107/TVBox/main/0707.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvaGZyMTEwNy9UVkJveC9tYWluL3R2L2JjLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvaGZyMTEwNy9oZnJ0di9tYWluL3R2L2xpdmUudHh0"]}]}],
 
 
 "sites":[
