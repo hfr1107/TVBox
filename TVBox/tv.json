@@ -1,7 +1,8 @@
 {
 //spider
-"spider":"http://tv.s6u.top/TVBox/tv.jar",
+//"spider":"http://tv.s6u.top/TVBox/tv.jar",
 
+"spider":"https://raw.fastgit.org/huazua/TVBox/pages/TVBox/tv.json",
 //直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2LnM2dS50b3AvVFZCb3gvdHYvbXl0di50eHQ"]}]}],
 "sites":[
